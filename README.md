@@ -1,3 +1,3 @@
 # Simulative Git Module
 
-Helloe, GitHub!
+Hello, GitHub!
